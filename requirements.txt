@@ -1,0 +1,4 @@
+gunicorn
+twilio
+Flask
+goodreads_quotes
